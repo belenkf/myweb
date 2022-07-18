@@ -1,0 +1,79 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+/**/
+
+body{
+    background-color: #028a51;
+    width: 100%;
+    height: 100%;
+    color: #085847;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+header{
+    background-color: #085847;
+    width: 100%;
+    height: 100px;
+}
+
+.container-fluid{
+    width: 50%;
+    height: 100px;
+}
+
+#logo{
+    width: 200px;
+    height: 100px;
+    padding-top: 10px;
+    margin-left: 25px;
+}
+
+.enlace{
+    width: 50%;
+    height: 100px;
+    text-align: center;
+    line-height: 100px;
+    margin-right: 25px;
+}
+
+footer{
+    background-color: #037256;
+    width: 100%;
+    height: 100px;
+    display: flex;
+}
+
+#frase{
+    width: 50%;
+    height: 100px;
+    text-align: center;
+    line-height: 100px;
+    float: left;
+}
+
+#contactos{
+    width: 50%;
+    height: 100px;
+    text-align: center;
+    line-height: 100px;
+    display: flex;
+}
+
+#redes{
+    height: 100px;
+    line-height: 100px;
+}
+
+#iconos{
+    height: 100px;
+}
+
+.icono_redes{
+    margin: 10px;
+}
+
+/**/
